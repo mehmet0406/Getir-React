@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,700;1,400;1,600&display=swap');
+@import url( "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css");
+
+@layer base {
+  html,body{
+    font-family: sans-serif;
+    @apply antialiased	
+  }
+}
+
+.ReactFlagsSelect-module_selectBtn__19wW7 {
+  @apply !border-2 h-14 border-solid border-gray-300 hover:border-primary-color border-separate transition-all p-8;
+}
+
+
+.ReactFlagsSelect-module_flagsSelect__2pfa2{
+  @apply pt-4
+}
