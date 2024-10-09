@@ -1,6 +1,6 @@
 import { useState,useEffect } from "react"
-import categoriesData from '../api/categories.json'
-import Category from "./category"
+import categoriesData from '../json/categories.json'
+import Category from "../components/category"
 export default function Categories() {
   
   const[categories,setCategories] = useState([])

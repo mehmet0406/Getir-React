@@ -1,4 +1,4 @@
-Getir anasayfasını `tailwind` ve `React` ile hazırladım.
+Getir sitesinin arayüz tasarımını `tailwind` ve `React` ile hazırladım.
 				    											
 Proje icerisinde hazır paketleri kullandım.
 				 												

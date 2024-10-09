@@ -52,7 +52,6 @@ export default function FirstSection() {
       <div className="bg-white py-2 flex px-4 justify-between text-primary-color md:hidden"><span className="flex gap-2"><span><HiLocationMarker size={17}/></span><span className="text-gray-600 font-semibold text-sm " >Teslimat Adresi Belirle</span></span><span><a href="#"><IoIosArrowForward size={22}/></a></span></div>
         <div className="w-full md:w-[400px] rounded-lg bg-gray-50 p-6">
           <h4 className="text-center text-base  text-primary-color font-semibold">Giriş Yap veya Kayıt ol</h4>
-
           <div className="flex gap-4">
             <ReactFlagsSelect
               countries={Object.keys(phones)}

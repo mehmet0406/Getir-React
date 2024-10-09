@@ -1,6 +1,6 @@
 import { useState,useEffect } from "react"
-import CardsApi from '../api/Cards.json'
-import Card from './Card'
+import CardsApi from '../json/Cards.json'
+import Card from '../components/Card'
 
 
 export default function Cards() {
